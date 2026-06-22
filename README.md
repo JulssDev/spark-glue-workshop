@@ -4,3 +4,6 @@ Pipeline ETL distribuido Bronze → Silver → Gold sobre el dataset Online Reta
 construido con AWS Glue Studio, Step Functions y Athena.
 
 ## Evidencia del taller
+
+### Paso 0 — Alerta de presupuesto
+![Budget creado en Billing](evidence/step_0_budget.png)
